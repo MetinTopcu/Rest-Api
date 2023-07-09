@@ -1,3 +1,2 @@
 # RestApi-Client
-Contents: Api, RestApi, Intellij idea, 
-Api, Apinizer API MANAGEMENT PLATFORM
+Contents: Api, RestApi, Intellij idea, Apinizer API MANAGEMENT PLATFORM
